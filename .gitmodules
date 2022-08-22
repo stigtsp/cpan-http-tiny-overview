@@ -1,0 +1,3 @@
+[submodule "metacpan-cpan-extracted"]
+	path = metacpan-cpan-extracted
+	url = https://github.com/metacpan/metacpan-cpan-extracted
